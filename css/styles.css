@@ -1,7 +1,48 @@
-.intro{
+body {
+  background-color: #F1EAC0;
+  font-family: sans-serif;
+}
+
+h1 {
+  background-color: #266878;
+  color: white;
+  font-size: 40px;
+  font-weight: bold;
+}
+
+h2 {
+  background-color: #8EB39A;
+}
+
+img {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.intro {
+  background-color: #DFC89C;
 
 }
 
-.skills{
+.skills {
+  background-color: #DFC89C;
+}
 
+.experience {
+   background-color: #DFC89C;
+}
+
+.education {
+   background-color: #DFC89C;
+}
+
+.photo {
+  background-color: #cdede7;
+
+}
+
+.fancy {
+  font-weight: bold;
+  color: red;
 }
